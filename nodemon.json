@@ -1,0 +1,8 @@
+{
+	"verbose": false,
+	"watch": ["server-a", "server-b"],
+	"ext": "js",
+	"exec": "node server-a/index.js & node server-b/index.js",
+	"legacyWatch": false,
+	"delay": 250
+}

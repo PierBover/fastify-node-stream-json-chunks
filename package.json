@@ -1,0 +1,28 @@
+{
+  "name": "fastify-node-stream-json-chunks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PierBover/fastify-node-stream-json-chunks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PierBover/fastify-node-stream-json-chunks/issues"
+  },
+  "homepage": "https://github.com/PierBover/fastify-node-stream-json-chunks#readme",
+  "dependencies": {
+    "fastify": "^4.15.0",
+    "got": "^12.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
